@@ -1,0 +1,44 @@
+renew layout
+--------------
+HandleEvent
+
+==================================================
+【model calculation】
+-------------------
+parameters equation
+
+=================================================
+左侧parameter
+--------------
+布局
+
+==============================================
+model calculation display
+---------------------------
+在另一个cell实现？
+
+===========================================
+把UI layout单独写成文件，在main中调用
+
+============================================
+Cache
+====================
+cover image
+------------
+file = open("images/HSL_0.jpg","rb")
+image = file.read()
+widgets.Image(
+    value=image,
+    format='jpg',
+    width=300,
+    height=400,
+)
+
+
+
+
+
+
+
+
+
