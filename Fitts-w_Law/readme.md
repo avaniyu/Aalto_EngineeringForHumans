@@ -1,1 +1,0 @@
-Fitts' Law GUI
