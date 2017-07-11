@@ -5,4 +5,4 @@
 0. [Install and setup Jupyter Notebook](http://jupyter.readthedocs.io/en/latest/install.html)
 1. Download .zip file in each folder with different topic, and extract locally
 2. Run "jupyter notebook" from file location in local command prompt
-3. Select cell, press SHIFT + ENTER to run current cell
+3. Select cell, press CTRL + ENTER to run current cell
