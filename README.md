@@ -6,3 +6,6 @@
 1. Download .zip file in each folder with different topic, and extract locally
 2. Run "jupyter notebook" from file location in local command prompt
 3. Select cell, press CTRL + ENTER to run current cell
+
+## Prerequisite
+Numpy package
