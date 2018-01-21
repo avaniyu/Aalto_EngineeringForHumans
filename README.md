@@ -8,4 +8,4 @@
 3. Select cell, press CTRL + ENTER to run current cell
 
 ## Prerequisite
-Numpy package
+Numpy package, python 3.0 or higher
