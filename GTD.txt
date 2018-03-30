@@ -1,0 +1,32 @@
+清楚地document code (首几行说明变量名称是啥意思，注意comment文字)
+------------------------------------
+MRT (cube)
+Ractcliff
+SDT (signal detection theory)
+-----------------------------------
+input: JSON (from Janin)
+output: svg pic in Python
+似乎有个svg rendering lib不知可用否
+
+=================================================================
+【Antti feedback】
+每个demo前写好自己姓名，group, university -- license
+
+-----------------
+Hick-Hyman
+-----------------
+filter button --  delete outlier data
+timestart似乎记录的是错的
+data fitting结果要是log的
+preload dataset for data fitting
+
+文字提示里的start/continue更明显些
+<ESC> quit exp
+
+-----------------
+MRT
+-----------------
+3d cube larger, label alignment
+more tasks
+conflicted sub-cubes in red
+interference value plot
