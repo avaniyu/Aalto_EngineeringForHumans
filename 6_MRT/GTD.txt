@@ -1,0 +1,25 @@
+interference value plot
+
+define more tasks
+
+根据 Antti feedback 改
+
+右边表格real-time emphasis有些不大对
+
+=======================================================
+简化 def analysisTasks()代码
+
+=======================================================
+让GUI窗口一出来就是focused的，不用点鼠标来选中窗口
+
+code里提醒若jupyter notebook无反应，则clear以下kernel
+
+3d cube larger, label alignment
+
+选择task 2, 3时，有个面未冲突但是red
+
+改变red颜色
+
+说明数据ref出处
+
+3d cube visualisation x,y,z轴是人为地用tick表示来使其水平
