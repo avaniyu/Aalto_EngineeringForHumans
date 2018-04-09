@@ -15,7 +15,7 @@ output: svg pic in Python
 -----------------
 MRT
 -----------------
-3d cube larger, label alignment
+3d cube label alignment
 more tasks
 conflicted sub-cubes in red
 interference value plot
