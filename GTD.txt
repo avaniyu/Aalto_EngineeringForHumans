@@ -17,5 +17,4 @@ MRT
 -----------------
 3d cube label alignment
 more tasks
-conflicted sub-cubes in red
 interference value plot
