@@ -15,6 +15,9 @@ output: svg pic in Python
 -----------------
 MRT
 -----------------
-3d cube label alignment
-more tasks
+conflict matrix real-time highlight cell
 interference value plot
+separate axes for codes/stages/modalities
+more tasks
+real-time 3d cube plot
+
