@@ -15,9 +15,9 @@ output: svg pic in Python
 -----------------
 MRT
 -----------------
-conflict matrix real-time highlight cell
+check conflict matrix highlight and interference conflict computation
 interference value plot
 separate axes for codes/stages/modalities
 more tasks
 real-time 3d cube plot
-
+×¢Ã÷ref paper
