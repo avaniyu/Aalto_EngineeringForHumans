@@ -1,9 +1,9 @@
 #### The repository is organized as follows
-- [2_Fitts_Law](../tree/master/2_Fitts_Law): a predictive model of human movement, often used to model the act of pointing. 
-- [2_HickHyman_Law](../tree/master/2_HickHyman_Law): a description on the time it takes for a person to make a decision as a result of the possible choices he or she has.
-- [5_KeystrokeLevelModel](../tree/master/5_KeystrokeLevelModel): a predictive model on the time it takes for an expert user to accomplish a routine task without errors using an interactive computer system.
-- [6_MRT](../tree/master/6_MRT): a predictive model on the relative differences in task interference between different task configurations.
-- [7_ConsumedEndurance](../tree/master/7_ConsumedEndurance): a predictive model on the fatigue or consumed energy of a user from sustaining an interaction.
+- __2_Fitts_Law__: a predictive model of human movement, often used to model the act of pointing. 
+- __2_HickHyman_Law:__ a description on the time it takes for a person to make a decision as a result of the possible choices he or she has.
+- __5_KeystrokeLevelModel__: a predictive model on the time it takes for an expert user to accomplish a routine task without errors using an interactive computer system.
+- __6_MRT__: a predictive model on the relative differences in task interference between different task configurations.
+- __7_ConsumedEndurance__: a predictive model on the fatigue or consumed energy of a user from sustaining an interaction.
 
 #### Setup and usage
 0. [Install and setup Jupyter Notebook](http://jupyter.readthedocs.io/en/latest/install.html).
